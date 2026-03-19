@@ -7,4 +7,5 @@ This section features fundamental AWS concepts and services.
 - **Project**: Create a Resume 
   - **Description**: This project focus on hand-on experience with AWS Core Services with the AWS Console or Terraform as Infracstructure as Code - IaC.
   - **Service Used**: IAM, S3, CloudFront, CloudFlare and Certificate Manager
-  - **Link**: [Code Directory](https://github.com/moyola1/aws-resume-site1/blob/main/README.md)
+  - **Link**: [Code Directory](https://github.com/moyola1/aws-resume-site1)
+
