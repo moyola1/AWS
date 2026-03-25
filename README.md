@@ -1,11 +1,59 @@
-# AWS: Portfolio of Cloud Projects ☁️
-Welcome to my AWS Project Portfolio.
-This repository reflects my progression from AWS Cloud Practitioner fundamentals to Solutions Architect–level design principles. Projects cover foundational services, security and cost awareness, and evolve into architecting scalable, highly available, and fault‑tolerant solutions using AWS best practices.
+# AWS Project Portfolio ☁️
+Welcome to my AWS Project Portfolio
 
-## Resume Project
-This section features fundamental AWS concepts and services.
-- **Project**: Create a Resume 
-  - **Description**: This project focus on hand-on experience with AWS Core Services with the AWS Console or Terraform as Infracstructure as Code - IaC.
-  - **Service Used**: IAM, S3, CloudFront, CloudFlare and Certificate Manager
+This repository documents my progression from AWS Cloud Practitioner fundamentals to Solutions Architect–level design and implementation.
+
+The projects focus on building a strong foundation in AWS core services, while progressively advancing into secure, scalable, highly available, and fault‑tolerant architectures aligned with AWS Well‑Architected Framework best practices.
+
+### What You’ll Find in This Repository
+
+- **Core AWS Services**
+
+  Hands‑on projects covering compute, storage, networking, IAM, monitoring, and security fundamentals.
+
+
+- **Architecture & Best Practices**
+
+  Designs that emphasize availability, resiliency, cost awareness, and security‑by‑design.
+
+- **Infrastructure as Code (IaC)**
+
+  Each project is first deployed using the AWS Management Console, then replicated using Infrastructure as Code to demonstrate automation, repeatability, and real‑world operational practices.
+
+- **CI/CD and Automation** 
+
+  Projects incorporate Continuous Integration and Continuous Deployment (CI/CD) pipelines to automate testing and infrastructure deployment wherever applicable.
+
+### Project Status & Learning Approach
+
+Some projects may be partially deployed or iterative. This is intentional and reflects my learning process—moving from understanding core concepts to refining implementations using AWS best practices and architectural patterns.
+The value of this portfolio lies not only in the final architecture, but in demonstrating:
+
+- Thoughtful design decisions
+- Trade‑off analysis (cost, security, scalability)
+- Real‑world infrastructure automation workflows
+
+
+# Projects:
+### Static Resume Website
+
+- **Project**: Resume Static Website 
+  - **Description**: This project focus on hand-on experience with AWS Core Services with the AWS Con.
+  - **Service Used**: IAM, S3, CloudFront, Route 53, and Certificate Manager
   - **Link**: [Code Directory](https://github.com/moyola1/aws-resume-site1)
 
+
+### Auto Scaling
+
+
+- **Project**:  
+  - **Description**: 
+  - **Service Used**:
+  - **Link**: [Code Directory](https://github.com/moyola1)
+
+### 3 Tier Application
+
+- **Project**:  
+  - **Description**: 
+  - **Service Used**: 
+  - **Link**: [Code Directory](https://github.com/moyola1)
