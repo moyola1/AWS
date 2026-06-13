@@ -35,7 +35,7 @@ The value of this portfolio lies not only in the final architecture, but in demo
 
 
 # Terraform Projects:
-### Static Resume Website
+### Static Website
 
 - **Project**: Static Website 
   - **Description**: This project focus on hand-on experience with AWS Core Services and Terraform.
