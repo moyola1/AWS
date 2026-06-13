@@ -34,13 +34,13 @@ The value of this portfolio lies not only in the final architecture, but in demo
 - Real‑world infrastructure automation workflows
 
 
-# Projects:
+# Terraform Projects:
 ### Static Resume Website
 
-- **Project**: Resume Static Website 
-  - **Description**: This project focus on hand-on experience with AWS Core Services with the AWS Con.
-  - **Service Used**: IAM, S3, CloudFront, Route 53, and Certificate Manager
-  - **Link**: [Code Directory](https://github.com/moyola1/aws-resume-site1)
+- **Project**: Static Website 
+  - **Description**: This project focus on hand-on experience with AWS Core Services and Terraform.
+  - **Service Used**: IAM, S3, EC2
+  - **Link**: [Code Directory](https://github.com/moyola1/AWS)
 
 
 ### Auto Scaling
