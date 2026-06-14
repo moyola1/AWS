@@ -40,7 +40,7 @@ The value of this portfolio lies not only in the final architecture, but in demo
 - **Project**: Static Website 
   - **Description**: This project focus on hand-on experience with AWS Core Services and Terraform.
   - **Service Used**: IAM, S3, EC2
-  - **Link**: [Code Directory](https://github.com/moyola1/AWS)
+  - **Link**: [Code Directory](https://github.com/moyola1/static-website)
 
 
 ### Auto Scaling
