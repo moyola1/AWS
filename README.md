@@ -40,8 +40,13 @@ The value of this portfolio lies not only in the final architecture, but in demo
 - **Project**: Simple Secure Web Application
   - **Description**: This project focus on hand-on experience with AWS Core Services and Terraform.
   - **Service Used**: IAM, EC2, VPC, and CloudWatch Logs (Apache/Application)
-  - **Link**: [Terraform Provider Resource](https://github.com/moyola1/static-website)
-  - **Link**: [Terraform Modules & Datasource](https://github.com/moyola1/static-website-modules)
+
+  - **Link**: [AWS Console Management](https://github.com/moyola1/secure-web-app/README.md)
+
+  - **Link**: [Terraform Provider Resource](https://github.com/moyola1/secure-web-app)
+
+  Code improvement with DRY (Don't Repeat Yourself) approach building local modules or using Terraform Registry
+  - **Link**: [Terraform local Module & Module Registry](https://github.com/moyola1/static-website-modules)
 
 
 ### Auto Scaling
